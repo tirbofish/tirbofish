@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thribhu and I'm a systems programmer, from Sydney</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
